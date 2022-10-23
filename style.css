@@ -1,0 +1,351 @@
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    
+    
+}
+nav a{
+    color: dimgray;
+    font-size: 17px;
+}
+.navv{
+    display: flex;
+}
+.ss{
+    position: relative;
+    left: 80px;
+    top: 65px;
+}
+.s1{
+    position: relative;
+    left: 100px;
+    top: 90px;
+}
+.s1 a{
+    border-bottom: 2px solid rgba(123, 42, 204, 0.725);
+}
+.s2{
+    position: relative;
+    left: 160px;
+    top: 90px;
+}
+.s3{
+    position: relative;
+    left: 220px;
+    top: 90px;
+}
+.s4{
+    position: relative;
+    left: 260px;
+    top: 90px;
+}
+.sd button{
+    position: absolute;
+    right: 120px;
+    top: 90px;
+    border: 20px;
+    width: 105px;
+    height: 35px;
+    border-radius: 50px;
+    background-color: white;
+    z-index: 1;
+    color: dimgray;
+    font-size: 16px;
+    
+}
+.dd{
+    position: relative;
+    bottom: 100px;
+    
+}
+.navv a{
+    text-decoration: none;
+}
+.sectioon{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.photo{
+    position: absolute;
+   
+}
+.photo  .p1{
+    position: absolute;
+    width: 430px;
+    bottom: 195px;
+    left: 880px;
+    z-index: 2 ;
+
+}
+.photo  .p2{
+    position: absolute;
+    width: 300px;
+    bottom: 310px;
+    left: 950px;
+    z-index: 1;
+}
+.photo  .p3{
+    position: absolute;
+    bottom: 50px;
+    left: 740px;
+    width: 800px;
+    z-index: -1;
+}
+.photo .p4{
+    position: absolute;
+    bottom: 0px;
+    left: -450px;
+    width: 1600px;
+    z-index: 3;
+
+}
+.write{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}
+.write h1{
+    color: rgb(105, 105, 105);
+    position: relative;
+    right: 75px;
+    font-size: 55px;
+}
+.write h1 span{
+    color: rgba(102, 19, 180, 0.851);
+}
+.write p{
+    color: rgba(85, 85, 85, 0.656);
+    position: relative;
+    right: 65px;
+    bottom: 20px;
+    font-size: 30px;
+}
+.write .ee{
+    position: relative;
+   bottom:45px;
+}
+
+.m1{
+    position: relative;
+    left: 350px;
+    width: 880px;
+}
+.m2 {
+    color: dimgray;
+    position: relative;
+    bottom: 400px;
+    left: 240px;
+    width: 200px;
+    font-size: 15px;
+}
+.m2 p{   
+    width: 400px;
+    font-size: 20px;
+    position: relative;
+    bottom: 8px;
+    right: 40px;
+
+}
+.m2 .p22{
+    position: relative;
+    right: 70px;
+    bottom: 25px;
+    font-size: 22px;
+}
+.m3{
+    color: dimgray;
+    position: relative;
+    bottom: 580px;
+    left: 670px;
+    width: 200px;
+    font-size: 15px;
+}
+.m3 p{   
+    width: 400px;
+    font-size: 20px;
+    position: relative;
+    bottom: 8px;
+    right: 40px;
+}
+.m3 .p23{
+    position: relative; 
+    left:-80px;
+}
+.m3 .p24{
+    position: relative;
+    bottom: 20px;
+}
+.m4{
+    color: dimgray;
+    position: relative;
+    bottom: 650px;
+    left: 999px;
+    width: 250px;
+    font-size: 15px;
+}
+.m4 h1{
+    position: relative;
+    left: 70px;
+}
+.m4  p{   
+    width: 400px;
+    font-size: 20px;
+    position: relative;
+    bottom: 8px;
+    right: 40px;
+}
+.m4 .p25{
+    position: relative;
+    left: -50px;
+    font-size: 20px;
+    bottom: 20px;
+
+}
+.m5{
+    color: dimgray;
+    position: absolute;
+    top:1400px;
+    left: 150px;
+    width: 350px;
+    z-index: -1;
+}
+.m5 p{
+    color: white;
+    position: relative;
+    bottom: 210px;
+    left: 80px;
+}
+.m5 h1{
+    color: white;
+    position: relative;
+    bottom: 240px;
+    left: 70px;
+    position: relative;
+    bottom: 240px;
+    left: 80px;
+    font-size: 43px;
+    z-index: 1;
+}
+.sectionn{
+    height: 980px;
+}
+.b1{
+    position: relative;
+    bottom: 400px;
+    left: 250px;
+    width: 200px;
+}
+.b2 h1{
+    position: relative;
+    left: 75px;
+    color: dimgray;
+    font-size: 25px;
+
+}
+.b2 p{  
+    position: relative;
+    left: 80px;
+    bottom: 10px;
+    color: dimgray;
+    font-size: 22px;
+}
+.b2 .n2{
+    position: relative;
+    
+    bottom: 24px;
+}
+.b2 .n1{
+    position: relative;
+    left: 130px;
+    bottom: 40px;
+}
+.b2{
+    position: relative;
+    bottom: 700px;
+    left: 550px;
+    width: 400px;
+}
+.b3{
+    position: relative;
+    bottom: 1150px;
+    left: 1050px;
+    width: 200px;
+}
+.secttion{
+height: 0;
+}
+.c1{
+    position: relative;
+    bottom: 1080px;
+    width: 100%;
+}
+.c1 .cc{
+    position: relative;
+    bottom: 470px;
+    left: 700px;
+    width: 700px;
+}
+.c2{
+    position: relative;
+    bottom: 1800px;
+}
+.c2 img{
+    position:absolute;
+    left: 120px;
+    top: 58px;
+    z-index: 1;
+}
+.c2 .bn{
+    position: relative;
+    left: 250px;
+    top: 50px;
+}
+.c2 button{
+    position: relative;
+    left: 80px;
+    top: 40px;
+    border: 0px solid white;
+    border-radius: 10px;
+    background-color: white;
+    width: 105px;
+    height: 45px;
+    margin: 10px;
+    padding: 0px 0px 0px 20px;
+}
+.c3{
+    position: absolute;
+    z-index: 1;
+    top: 2700px;
+    left: 125px;
+}
+.ff{
+    position: absolute;
+    left: 45px;
+    
+}
+.ff1{
+    position: absolute;
+    left: 85px;
+    bottom: 2px;
+}
+.c4 {
+    position: absolute;
+    top:  2750px;
+    left: 100px;
+    z-index: 1;
+}
+.c4 a{ 
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    margin: 25px;
+    text-decoration: none;
+}
+
+
+
+
+
